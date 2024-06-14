@@ -443,11 +443,3 @@ int main() {
 }
 ```
 
-## 反馈和参与
-
-* bug、疑惑、修改建议都欢迎提在[Github Issues](https://github.com/zavier-wong/acid/issues)中
-* 也可发送邮件 [acid@163.com](mailto:acid@163.com) 交流学习
-
-## 致谢
-
-感谢 [sylar](https://github.com/sylar-yin/sylar) 项目, 跟随着sylar完成了网络部分，才下定决心写一个分布式框架。在框架的设计与实现上也深度参考了sylar项目。
